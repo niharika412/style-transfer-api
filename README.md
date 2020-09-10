@@ -3,7 +3,7 @@
 
 Flask app for style transfer using neural network
 
-
+![image](https://github.com/niharika412/style-transfer-api/blob/master/static/index.png?raw=true)
 ### Prerequisites
 
 * PyTorch
