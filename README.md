@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Style-Transfer
 
 Flask app for style transfer using neural network
@@ -42,3 +43,6 @@ Select the Style image and then upload the content image (the image on which you
 
 * Inspired from [this](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) paper.
 * Udacity's Introduction To Neural Networks Course
+=======
+# style-transfer-api
+>>>>>>> 6583aa94a0664ea43b959c74196a84951acce176
