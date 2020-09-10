@@ -1,5 +1,5 @@
 
-# Style-Transfer
+# Style-Transfer using VGG19 
 
 Flask app for style transfer using neural network
 
