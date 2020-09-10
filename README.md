@@ -32,7 +32,7 @@ Select the Style image and then upload the content image (the image on which you
 * [Flask](http://flask.pocoo.org/) - web framework
 
 ## Results
-
+![success](https://github.com/niharika412/style-transfer-api/blob/master/static/success.png?raw=true)
 
 ## future work
 
