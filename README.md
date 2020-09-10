@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Style-Transfer
 
 Flask app for style transfer using neural network
@@ -16,7 +16,7 @@ Flask app for style transfer using neural network
 
 Install the prerequisties
 
-To run it locally, first clone the directory - 
+To run it locally, first clone the directory,
 
 
 Then run `python script.py` in cmd
@@ -45,4 +45,3 @@ Select the Style image and then upload the content image (the image on which you
 * Udacity's Introduction To Neural Networks Course
 =======
 # style-transfer-api
->>>>>>> 6583aa94a0664ea43b959c74196a84951acce176
